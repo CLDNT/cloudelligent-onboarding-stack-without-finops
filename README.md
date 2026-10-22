@@ -1,0 +1,1 @@
+# cloudelligent-onboarding-stack-without-finops
